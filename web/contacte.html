@@ -27,8 +27,24 @@
         <hr>
         <main>
             <h1>BMW E30 - Contacte</h1>
-            <form action="./contacto.php">
-
+            <form action="contacte.php" method="post">
+                <p>
+                    <label for="nom">Nom</label>
+                    <input id="nom" type="text" placeholder="Nom" name="unom" required>
+                    <label for="cognom">Cognom</label>
+                    <input id="cognom" type="text" placeholder="Cognom" name="ucognom" required>
+                </p>
+                <p>
+                    <label for="telefon">Telefon</label>
+                    <input id="telefon" type="tel" placeholder="Telefon" name="utelefon">
+                    <label for="email">Email</label>
+                    <input id="email" type="text" placeholder="Email" name="uemail" required>
+                </p>
+                <p>
+                    <label for="missatge">Missatge</label>
+                    <input id="missatge" type="textaria" placeholder="Que ens vols dir?" name="umissatge" required>
+                </p>
+                <button type="Submit">Enviar</button>
             </form>
             <address>
                 <strong>BMW e30cat Club</strong><br>
