@@ -1,0 +1,18 @@
+div{
+    display:flex;
+    text-align: center;
+}
+
+article {
+    float: left;
+}
+
+aside{
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,28 @@
+article{
+    display: inline;
+}
+
+aside{
+    float:right;
+}
+
+article > p{
+    line-height: 1.5;
+    text-indent: 20px;
+}
+
+table{
+    margin:auto;
+    text-align: center;
+    border: solid 1px white;
+}
+
+th{
+    width: 80px;
+    height: 28px;
+}
+
+figcaption{
+    text-align: center;
+    font-style: italic;
+}

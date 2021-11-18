@@ -1,0 +1,19 @@
+#missatge{
+    height: 75px;
+    width: 375px;
+}
+
+iframe{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+address{
+    padding-left: 25px;
+    padding-right: 25px;
+}
