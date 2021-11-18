@@ -7,7 +7,7 @@ body{
 
 header{
     text-align: center;
-    margin-top: 135px;
+    margin-top: 170px;
 }
 
 nav > ul > li{
@@ -15,6 +15,14 @@ nav > ul > li{
     text-align: center;
     list-style-type: none;
     margin: 20px;
+}
+
+main a:link{
+    color:lightblue;
+}
+
+main a:visited{
+    color:lightcoral
 }
 
 nav > ul > li > a{
@@ -75,6 +83,3 @@ h5{
     font-size: 19px;
     text-decoration-line: underline;
 }    
-
-
-
