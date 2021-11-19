@@ -31,56 +31,56 @@ figcaption{
 .parallax{
   height: 100%; 
   background-attachment: fixed;
-  background-position: center;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 
 }
 
 #part1{
     background-image: url(".././img/parallax1.JPG");
-    height: 600px;
+    height: 500px;
     width: 100%;
 }
 
 #part2{
-    background-image: url(".././img/banner.jpg");
-    height: 600px;
+    background-image: url(".././img/parallax2.jpg");
+    height: 500px;
     width: 100%;
 }
 
 #part3{
-    background-image: url(".././img/parallax1.JPG");
-    height: 600px;
+    background-image: url(".././img/parallax3.jpg");
+    height: 500px;
     width: 100%;
 }
 
 #part4{
-    background-image: url(".././img/banner.jpg");
-    height: 600px;
+    background-image: url(".././img/parallax4.jpg");
+    height: 500px;
     width: 100%;
 }
 
 #part5{
-    background-image: url(".././img/parallax1.JPG");
-    height: 600px;
+    background-image: url(".././img/parallax5.jpg");
+    height: 500px;
     width: 100%;
 }   
 
 #part6{
-    background-image: url(".././img/banner.jpg");
-    height: 600px;
+    background-image: url(".././img/parallax6.jpg");
+    height: 500px;
     width: 100%;
 }
 
 #part7{
-    background-image: url(".././img/parallax1.JPG");
-    height: 600px;
+    background-image: url(".././img/parallax7.jpg");
+    height: 500px;
     width: 100%;
 }
 
 #part8{
-    background-image: url(".././img/banner.jpg");
-    height: 600px;
+    background-image: url(".././img/parallax8.jpg");
+    height: 500px;
     width: 100%;
 }
