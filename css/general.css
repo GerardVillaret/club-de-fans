@@ -9,6 +9,7 @@ aside{
 article > p{
     line-height: 1.5;
     text-indent: 20px;
+
 }
 
 table{
@@ -25,4 +26,61 @@ th{
 figcaption{
     text-align: center;
     font-style: italic;
+}
+
+.parallax{
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#part1{
+    background-image: url(".././img/parallax1.JPG");
+    height: 600px;
+    width: 100%;
+}
+
+#part2{
+    background-image: url(".././img/banner.jpg");
+    height: 600px;
+    width: 100%;
+}
+
+#part3{
+    background-image: url(".././img/parallax1.JPG");
+    height: 600px;
+    width: 100%;
+}
+
+#part4{
+    background-image: url(".././img/banner.jpg");
+    height: 600px;
+    width: 100%;
+}
+
+#part5{
+    background-image: url(".././img/parallax1.JPG");
+    height: 600px;
+    width: 100%;
+}   
+
+#part6{
+    background-image: url(".././img/banner.jpg");
+    height: 600px;
+    width: 100%;
+}
+
+#part7{
+    background-image: url(".././img/parallax1.JPG");
+    height: 600px;
+    width: 100%;
+}
+
+#part8{
+    background-image: url(".././img/banner.jpg");
+    height: 600px;
+    width: 100%;
 }
