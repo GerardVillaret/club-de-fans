@@ -10,3 +10,8 @@ td {
     width: 420px; 
     height: 270px;
 }
+
+th{
+    font-size: 27px;
+    text-decoration-line: underline;
+}
