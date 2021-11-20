@@ -33,7 +33,7 @@ figcaption{
   background-attachment: fixed;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover; /*contain o cover*/
 
 }
 
